@@ -1,0 +1,24 @@
+{
+  "name": "youtube-backend",
+  "version": "1.0.0",
+  "description": "A Youtube Backend",
+  "keywords": [
+    "javscript",
+    "backend"
+  ],
+  "homepage": "https://github.com/Suyog1707/1st-project#readme",
+  "bugs": {
+    "url": "https://github.com/Suyog1707/1st-project/issues"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Suyog1707/1st-project.git"
+  },
+  "license": "ISC",
+  "author": "Suyog Aldar",
+  "type": "commonjs",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  }
+}
